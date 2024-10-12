@@ -961,7 +961,9 @@ dependencies = [
  "async-std",
  "colored",
  "serde",
+ "serde_json",
  "surf",
+ "thiserror",
 ]
 
 [[package]]
